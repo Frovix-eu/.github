@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Frovix-eu/Frovix/refs/heads/main/.github/assets/banner.svg" alt="Frovix.eu" width="100%" />
+<img src="https://raw.githubusercontent.com/Frovix-eu/.github/refs/heads/main/.github/assets/banner.svg" alt="Frovix.eu" width="100%" />
 
 <br>
 
@@ -19,7 +19,7 @@ PVP-клиент и сервисы к нему. Java, Node.js, Electron.
 
 <div align="center">
 
-<img alt="contribution snake" src="https://raw.githubusercontent.com/Frovix-eu/Frovix/refs/heads/main/.github/output/snake.svg?v=1" />
+<img alt="contribution snake" src="https://raw.githubusercontent.com/Frovix-eu/.github/refs/heads/main/.github/output/snake.svg?v=1" />
 
 </div>
 
