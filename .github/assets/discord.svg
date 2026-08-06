@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 56" width="210" height="56" role="img" aria-label="DISCORD">
+  <title>DISCORD</title>
+  <defs>
+    <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A222C"/>
+      <stop offset="100%" stop-color="#12161C"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2E7CC4" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#8FC9EE" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @font-face { font-family:"FvxBtn"; font-weight:600;
+      src:url("data:font/woff;base64,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") format("woff"); }
+    @keyframes glow { 0%,100% { opacity:.55 } 50% { opacity:1 } }
+    .edge { animation: glow 3.4s ease-in-out infinite }
+  </style>
+  <rect x="1.5" y="1.5" width="207" height="53" rx="12" fill="url(#face)"/>
+  <rect class="edge" x="1.5" y="1.5" width="207" height="53" rx="12" fill="none" stroke="url(#edge)" stroke-width="2"/>
+  <g transform="translate(35,28.0)">
+      <path d="M-9 -6 h18 a2 2 0 0 1 2 2 v9 a2 2 0 0 1 -2 2 h-11 l-5 4 v-4 h-2 a2 2 0 0 1 -2 -2 v-9 a2 2 0 0 1 2 -2 Z"
+        fill="none" stroke="#8FC9EE" stroke-width="1.8" stroke-linejoin="round"/>
+  </g>
+  <text x="56" y="34.0" font-family="FvxBtn, Space Grotesk, Segoe UI, Arial, sans-serif"
+        font-size="16" font-weight="600" letter-spacing="3" fill="#E8F2FA">DISCORD</text>
+</svg>
