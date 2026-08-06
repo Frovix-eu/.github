@@ -2,20 +2,28 @@
 
 <img src="https://raw.githubusercontent.com/Frovix-eu/.github/refs/heads/main/.github/assets/banner.svg" alt="Frovix.eu" width="100%" />
 
-<br>
+<br/>
 
-## Что мы делаем
+<a href="https://frovix.eu"><img src="https://raw.githubusercontent.com/Frovix-eu/.github/refs/heads/main/.github/assets/btn-website.svg" alt="Website" height="46" /></a>
+<a href="https://github.com/Frovix-eu/LAUNCHER/releases/latest"><img src="https://raw.githubusercontent.com/Frovix-eu/.github/refs/heads/main/.github/assets/btn-launcher.svg" alt="Launcher" height="46" /></a>
+<a href="https://discord.gg/INVITE"><img src="https://raw.githubusercontent.com/Frovix-eu/.github/refs/heads/main/.github/assets/btn-discord.svg" alt="Discord" height="46" /></a>
 
-PVP-клиент и сервисы к нему. Java, Node.js, Electron.
+</div>
 
-## Проекты
+<br/>
 
-| Проект | Описание |
+## What we build
+
+A PVP client and the services around it. Java, Node.js, Electron.
+
+## Projects
+
+| Project | Description |
 |---|---|
-| [**PROJECT**](https://github.com/Frovix-eu/PROJECT) | PVP-клиент |
-| [**LAUNCHER**](https://github.com/Frovix-eu/LAUNCHER) | Лаунчер на Electron |
+| [**PROJECT**](https://github.com/Frovix-eu/PROJECT) | PVP client |
+| [**LAUNCHER**](https://github.com/Frovix-eu/LAUNCHER) | Electron launcher |
 
-## Активность
+## Activity
 
 <div align="center">
 
